@@ -1,0 +1,15 @@
+path: C:\Users\Korengut\Downloads\Data
+train: train/images
+val: train/images
+
+names:
+  1: blue_display
+  2: blue_robot
+  3: note
+  4: notes
+  5: red_display
+  6: red_robot
+  7: speaker_blue
+  8: speaker_red
+  9: subwoofer_blue
+  10: subwoofer_red
